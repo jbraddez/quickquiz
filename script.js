@@ -12,7 +12,7 @@ const questions = [
         question: "Which is not a programming language?",
         answers: [
             {text: "Python", correct: false},
-            {text: "Ruby", correct: false},
+            {text: "C#", correct: false},
             {text: "HTML", correct: true},
             {text: "Javascript", correct: false},
         ]
